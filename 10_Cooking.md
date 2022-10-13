@@ -52,9 +52,9 @@ Source: [Click here](https://simply-delicious-food.com/easy-creamy-vegetable-cur
 |||
 
 #   **Veg Korma**
-##  Recipe 2
+##  Recipe 1
 Source: [Click here](https://thewanderlustkitchen.com/creamy-indian-vegetable-korma/)
-##  **INGREDIENTS**
+###  **Ingredients**
 FOR THE SAUCE
 -   <input type="checkbox"> 1 medium yellow onion - peeled and halved
 -   <input type="checkbox"> 3 cloves garlic - peeled
@@ -80,7 +80,7 @@ FOR THE KORMA
 -   <input type="checkbox"> 1 cup frozen peas and carrot mix
 -   <input type="checkbox"> 1 cup chopped fresh green beans
 
-### **INSTRUCTIONS**
+### **Instructions**
 1.  Place the onion, garlic, ginger, jalapeno, and cashews in the bowl of a blender along with ½ cup of water. Process until pureed.
 1.  Heat the vegetable oil in a large sauté pan set over medium heat. While the oil heats, measure out all of the spices (the curry powder through cardamom) and place in a small bowl.
 1.  Pour the pureed sauce mixture into the hot pan, using caution to avoid splatters. Stir in the pre-measured spices and allow to cook for 2 to 3 minutes, until fragrant.
