@@ -1,4 +1,7 @@
-#   **Creamy vegetable curry**
+#   Table of contents
+1.  [Creamy vegetable curry](#creamy-vegetable-curry)
+2.  [Veg Korma](#veg-korma)
+#   **Creamy vegetable curry** 
 ##  Recipe 1
 Source: [Click here](https://simply-delicious-food.com/easy-creamy-vegetable-curry/)
 ### **Ingredients**
