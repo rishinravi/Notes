@@ -28,18 +28,21 @@ Cryptocurrencies are on the rise. While trading them might seem risky, if you he
 
 While there are over 3,000 cryptocurrencies in existence, only a handful really matter today. Find an exchange, research the trading patterns, look for breakouts of long-term moving averages and get busy trading. You can use exchanges like [Coinbase](https://www.coinbase.com/), [Kraken](https://www.kraken.com/), or [Cex.io](https://cex.io/), along with many others, to make the actual trades.
 
-##  Use peer-to-peer lending
+###  Use peer-to-peer lending
 Peer-to-peer lending is a hot investment strategy these days. While you might not get rich investing in a peer-to-peer lending network, you could definitely make a bit of coin. Which lending platform do you use? Today, there are many to choose from, but the most popular ones include [Lending Club](https://www.lendingclub.com/) , [Peer Form](https://www.peerform.com/) , and [Prosper](https://www.prosper.com/) .
 
 How does this work? Peer-to-peer lending platforms allow you to give small bursts of capital to businesses or individuals while collecting an interest rate on the return. You get more money than you would if you placed it in a savings account, plus your investment risk is limited because the algorithms are doing much of the hard work for you.
 
 Once you identify the offer, you can dig in and do some research -- then, you can either take the deal or not. You'll have your risk evaluated based on a proprietary algorithm that includes employment and credit history, and you'll be able to decide to invest based on a variety of well-thought-out data.
 
-##  Trade options
+###  Trade options
 When it comes to a good investment option, Tom Sosnoff at Tastyworks says, "Trade small and trade often." What type should you trade? There are loads of vehicles, such as FOREX and stocks. The best way to make good money by investing when it comes to options is to jump in around 15 days before corporate earnings are released. What type should you buy? Money calls.
 The optimal time to sell those money calls is the day before the company releases its earnings. There's just so much excitement and anticipation around earnings that it typically drives up the price, giving you a consistent winner. But don't hold through the earnings. That's a gamble you don't want to take if you're not a seasoned investor, says John Carter from [Simpler Trading](https://www.simplertrading.com/).
 >[2 Strategies for Making Money Day Trading With a Bit Less Risk](https://www.entrepreneur.com/article/278184)
 
-##  Flip real estate contracts
+###  Flip real estate contracts
 There are ways you can take as little as $500 to $1,000 and use the cash investments to flip real estate contracts to make quick money. How? Use a system like Kent Clothier's [REWW](https://reww.com/) to first understand how the market works.It'll then provide you with the data and tools to identify vacant homes, distressed sellers, and cash buyers.
 While most people think that real estate is won by flipping traditional homes and doing the renovations yourself, the fastest money you can make in real estate involves flipping the actual contract itself. It's arbitrage. Identify the motivated sellers and cash buyers, bring them together, and effectively broker the deal. It might seem odd on the first go, but once you get the hang of it, you can become a mini-mogul in the real estate industry by simply scaling out this one single strategy. It works, and it's touted by some of the world's most successful real estate investors.
+
+
+##  
