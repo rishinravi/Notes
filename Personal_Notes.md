@@ -93,4 +93,6 @@ Don't worry too much:
 *    Not a person you want to help beyond the boundary. She probably wont even see you as a friend.
 *    Chapter closed.
 *    What I need is to be better than her or anyone else, or be at peace.
+*    Be good friends with people who actually cares for you. Its a waste of time otherwise
+*    Let the people care for you, it doesn't work one way.
 
