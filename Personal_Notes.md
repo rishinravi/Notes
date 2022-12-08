@@ -84,9 +84,13 @@ Don't worry too much:
 *    Unlikely she will ever contact me unless she need something from me.
 *    Since we had that in one conversation, she will try to avoid that too, since she knows that I know what she is doing.
 *    Of all these days if favor, she hasn't offered anything, not a thing for you.
-*    
+*    I expected a lot from her, first a relationship then a good friend.
+*    She only saw a friend during the phase she passes by. (100%)
+*    She might have a realized I was expecting more and stayed aloof.
+*    Don't judge by her border line character. 
 ####    Decision
 *    She is not a friend, only and acquaintance.
 *    Not a person you want to help beyond the boundary. She probably wont even see you as a friend.
 *    Chapter closed.
+*    What I need is to be better than her or anyone else, or be at peace.
 
