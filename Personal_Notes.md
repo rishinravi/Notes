@@ -58,6 +58,7 @@ Before dropping her home she said these few things during our short/not very nic
 *    Hope her mother will find a guy in Vancouver
 *    Her mother might be coming to stay this year
 She really was in a hurry to leave, and I mentioned that I am going to be missing her, no reaction at all.
+*    Big problem: I am reasoning a lot of things based of what she thinks. That's stupid.
 ###    Reason
 Priya
 *    Realizations
