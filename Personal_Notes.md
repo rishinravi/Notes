@@ -18,10 +18,8 @@
           *    Real estate
           *    Lottery
 
-
 #    Emotional Intelligence
 ##    It hurts when people you find attached departs.
-
 Solutions.
 *    Know people you get attached to. Its bad when you get attached to a person and that person doesn't feel the same.
 *    Have friends who cares and appreciate your time and life and show care for you. If that's not the case probably not worth getting too close to that friend.
@@ -30,8 +28,7 @@ Solutions.
      *    Try making new friends.
      *    If you don,t see friendship growing don't put too much effort into it, it will be followed by regret.
      *    Its okay good friends can be rare, there may not be a lot of people who would think the same way as you do.
-*    Don't be a bad idea to think about marriage.
-
+*    Won't be a bad idea to think about marriage.
 
 Don't worry too much:
 *    Learn to care about yourself and prioritize your interests.
@@ -42,57 +39,63 @@ Don't worry too much:
 *    Be an opportunist, don't be shy.
 *    Everything will pass.
 
-##    Priya
-###    Case Analysis
-####    Before Vancouver
-*    Used to meet during weekends
-*    Didn't mention about the amazon interviews
-*    she really hasn't mentioned about any interviews
-*    Only met or talked for while dropping her or while grocery shopping.
-*    Brought her a few times to Campbell and took back home.
-*    Till now one word text only
-*    One time she only called when she needed a ride to Campbell.
-*    Hard to think she thought of me as anything more than a person who could help her with a few things and talk when meet in public.
-*    Any nice things she said was only during driving, and wasn't followed with anything.
-*    I was interested in spending time with her and taking her to the airport.
-*    She was avoiding when she was spending time at the library. (reasons: not interested, hiding the interviews)
-*    Couple of times she called are probably when she needed some help, or may be when extremely bored.
-####    On and After Vancouver
-*    she really didn't care anything about anyone in Windsor. Not even a little about myself.
-*    She probably had interview and liked Vancouver and people much more than Windsor.
-*    No doubt she hid things and hide things multiple times. (I cared for her, stupid to assume she had any)
-*    She called after reaching Windsor. (reasons: aware that she only calls for help, lost the interview sad, feeling sad in general)
-*    Although she wanted to know if I was mad, it is unlikely the reason for her calling had anything to do with fixing the friendship.
-*    She called the day after for grocery, talked nice about me cooking her food.
-*    I did the next day, she tried to avoid the conversation.
-*    Couple of days talked to her, not much of talking. She was stressed so she spared some time. Unlikely she still had any interest in talking to me.
-*    The day of graduation. Avoiding and the behavior. What Paul said most probably true.
-*    Need i type more, things look just too obvious....
-*    15 days
-*    Bugging her for 2 weeks
-*    Her birth day
-*    gift
-*    she didn't want to talk about her getting the job or any details
-*    probably one of the last people she talked to.
-*    Outcome of that call: she probably only care about the ride and help with driving test. 
-*    Unlikely she will ask for, but if I present myself offering help she wouldn't say NO.
+##    Priya Case Study
+###    
+*    Its unlikely we will stay in touch once she leaves to Vancouver.
+*    She would never go above and beyond to do any favors for myself.
+*    Pretty sure I am giving unconditional attention.
+*    Still don't think she is a person I want to help too much. Not a relationship that's going to last long.
 
-####    Conclusions
-*    She never wanted to have a close friendship. (100%)
-*    Nothing more than a contact she keeps with Eljo.
-*    I could be trustful source for help in Windsor.
-*    Unlikely she will ever contact me unless she need something from me.
-*    Since we had that in one conversation, she will try to avoid that too, since she knows that I know what she is doing.
-*    Of all these days if favor, she hasn't offered anything, not a thing for you.
-*    I expected a lot from her, first a relationship then a good friend.
-*    She only saw a friend during the phase she passes by. (100%)
-*    She might have a realized I was expecting more and stayed aloof.
-*    Don't judge by her border line character. 
-####    Decision
-*    She is not a friend, only and acquaintance.
-*    Not a person you want to help beyond the boundary. She probably wont even see you as a friend.
-*    Chapter closed.
-*    What I need is to be better than her or anyone else, or be at peace.
-*    Be good friends with people who actually cares for you. Its a waste of time otherwise
-*    Let the people care for you, it doesn't work one way.
+#    Days of upset/lost sleep
+##    Day:1 (22-12-14:Tuesday)
+###    When/Situation
+After taking Priya for drive.
+I went to the gym after work as usual. Left the gym early as I was feeling tired. I was prepared to spend some time with Priya early from the day. I did like spending time with her anyways.
+Called her from outside the gym, she was being friendly, picked her up at around 8. Went to the restaurant to grab food for myself. She was on the phone when I went into the rest room. She just wanted to go home for no reason after that.
+Before dropping her home she said these few things during our short/not very nice conversation.
+*    She felt a vibe at Vancouver that was never felt in Ontario.
+*    She would never leave Vancouver
+*    Hope her mother will find a guy in Vancouver
+*    Her mother might be coming to stay this year
+She really was in a hurry to leave, and I mentioned that I am going to be missing her, no reaction at all.
+###    Reason
+Priya
+*    Realizations
+     *    Felt like she was comfortable ignoring as she left in a hurry not saying why. I did feel it rude.
+          *    (Women are attention seekers, u have to give them attention, I didn't give her any) 
+     *    She is not going to miss me
+     *    She probably wont even remember my name in future
+     *    Not seeing any room for the relation to grow.
+###    Possible Causes
+*    Lack of good friends/Not having a good partner
+###    How long
+From 9PM-2AM (lost sleep, totally wasn't worth it)
+###    Remedy that helped
+Realizing the fact that the thing that was actually upsetting me was Priya. Started thinking logically, what I could do and what's out of my reach, and things I should never care about.
+*    Reason for upset was Priya behavior.
+*    Expected a better friend from her but wasn't there.
+*    Felt more like she would only talk when she needs something and she will talk very nice when that's the case.
+*    Just driving sucks
+*    The problem would have been solved if she talked nice at that moment.
+     *    If she isn't I should not care much.
+###    Remedy to try next time 
+*    Think what actually the problem is. Only the fact and truth.
+*    Find the solutions that would work.
+*    See if any of those are possible or not in my hand.
+*    If not in your hand, shit probably not worth it.
 
+
+
+
+
+<!--
+Structure
+
+##    Day:x (xx-xx-xx:XXXX)
+###    When
+###    Reason
+###    Possible Causes
+###    How long
+###    Remedy that helped
+###    Remedy to try next time 
+-->
